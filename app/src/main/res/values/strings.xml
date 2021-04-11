@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Lab 2</string>
+    <string name="title">Lab2_pms</string>
+    <string name="name"><pre>Небеський Данило\nГрупа ІВ-81\nЗК ІВ-8121</pre></string>
+    <string name="screen_1">General</string>
+    <string name="screen_2">Item 2</string>
+    <string name="selector"> </string>
+    <string name="diagram">Diagram</string>
+    <string name="graphic">Graphic</string>
+</resources>
